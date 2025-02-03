@@ -1,3 +1,4 @@
+![Header](./github-header-image.png)
 # 💫 About Me:
 🔭 I’m currently working on Full Stack<br><br>🌱 I’m currently learning React, Typescript, NextJS<br><br>💬 Ask me about C,Java,Python,Javascript<br><br>📫 How to reach me gauravtiwari8178@gmail.com
 
